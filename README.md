@@ -49,6 +49,7 @@
         port=17845
         rpcport=17846
         addnode=45.32.106.246
+        addnode=45.77.35.149
 ```
 
 ### MINING
