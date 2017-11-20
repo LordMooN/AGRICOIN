@@ -4,7 +4,7 @@
 
 
 
-### SPECFICATION
+### SPECIFICATION
 - NAME **AGRICOIN**
 - TICKER **AGC**
 - TYPE **POW**
