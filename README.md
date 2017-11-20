@@ -37,6 +37,7 @@
 ### CONFIG
 - C:\Users\User pc\AppData\Roaming\Agricoin
 
+Open notepad copy this seting and save (NB: save as all file format dont as text document)
 `agricoin.conf`
 
 ```
@@ -60,6 +61,7 @@
 - Debug window
 - Console
 - type setgenerate true -1
+- Check getmininginfo if setgenerate: true and hashespersec have value not 0 your already start mining
 #### Pool Mining
 - Coming Soon
 
