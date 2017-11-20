@@ -1106,8 +1106,8 @@ else if(nHeight < 20000)
     }
 
 
- // Subsidy is cut in half every 1000000 blocks, which will occur approximately every 4 years
-    nSubsidy >>= (nHeight / 1000000); // Agricoin: 1000000 blocks in ~4 years
+ // Subsidy is cut in half every 1000000 blocks, which will occur approximately every 1.5 years
+    nSubsidy >>= (nHeight / 1000000); // Agricoin: 1000000 blocks in ~1.5 years
 
     return nSubsidy + nFees;
 }
